@@ -1,6 +1,5 @@
 # NBA-Prediction-Project
 
-[README.md](https://github.com/user-attachments/files/34890389/README.md)
 # Identifying NBA Player Archetypes and Predicting All-NBA Selections
 
 A data mining project that groups NBA players into modern statistical archetypes with PCA and K-Means, then uses those same statistical profiles to predict All-NBA selections.
